@@ -17,8 +17,8 @@
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(20%, -45%);
-    color: white;
+    transform: translate(20%, -40%);
+
 }
 
 .banner-text h1 {
@@ -26,6 +26,7 @@
     font-size: 65px;
     line-height: 70px;
     margin-bottom: 25px;
+    color: white;
 }
 
 .banner-text p {
@@ -33,7 +34,17 @@
     font-size: 16px;
     line-height: 26px;
     margin-bottom: 30px;
+    color: white;
 }
+
 /* Button primary [white colour */
 
-
+.btn-primary {
+    background-color: rgb(236, 241, 246);
+    border-radius: 5px;
+    padding: 18px 35px;
+    color: #005FAC;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+}
