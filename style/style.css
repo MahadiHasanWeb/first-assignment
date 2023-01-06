@@ -1,0 +1,39 @@
+* {
+    font-family: 'Work Sans', sans-serif;
+    margin: 0;
+}
+
+/* Banner Section */
+
+.banner-pic {
+    width: 1600px;
+    height: 808px;
+}
+
+.banner {}
+
+.banner-text {
+    text-align: right;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(20%, -45%);
+    color: white;
+}
+
+.banner-text h1 {
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 70px;
+    margin-bottom: 25px;
+}
+
+.banner-text p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 30px;
+}
+/* Button primary [white colour */
+
+
