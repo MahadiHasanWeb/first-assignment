@@ -10,14 +10,15 @@
     height: 808px;
 }
 
-.banner {}
+.banner {
+    position: relative;
+}
 
 .banner-text {
     text-align: right;
     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(20%, -40%);
+    bottom: 165px;
+    right: 230px;
 
 }
 
