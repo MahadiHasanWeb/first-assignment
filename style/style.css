@@ -12,6 +12,7 @@
 
 .banner {
     position: relative;
+    margin-bottom: 130px;
 }
 
 .banner-text {
@@ -49,3 +50,42 @@
     font-size: 20px;
     line-height: 23px;
 }
+
+/* Banner Section Done */
+
+
+/* Start - My failures of previous year */
+.previous-year {
+    display: flex;
+    justify-content: center;
+    gap: 90px;
+    max-width: 1072px;
+    margin: 50px auto;
+    align-items: center;
+    margin-bottom: 130px;
+}
+
+.previous-year-text {
+    margin-top: 100px;
+}
+
+.previous-year-text h2 {
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    margin-bottom: 25px;
+}
+
+.previous-year-text p {
+    color: #444343;
+    line-height: 26px;
+    margin-bottom: 16px;
+}
+
+.previous-year-text ul {
+    line-height: 26px;
+    color: #444343;
+}
+
+/* Done - My failures of previous year */
