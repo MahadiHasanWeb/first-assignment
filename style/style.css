@@ -89,3 +89,33 @@
 }
 
 /* Done - My failures of previous year */
+
+/* Start - My plans */
+#My-Plans {
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+
+.plan-container {
+    display: flex;
+    gap: 85px;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 130px;
+}
+
+.plan-container h3 {
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+    margin-bottom: 16px;
+}
+
+.plan-container p {
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+}
+/* Done - My plans */
