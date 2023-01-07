@@ -55,7 +55,9 @@
 /* Banner Section Done */
 
 
-/* Start - My failures of previous year */
+
+
+/* Start - My failures of previous year Section */
 .previous-year {
     display: flex;
     justify-content: center;
@@ -89,9 +91,9 @@
     color: #444343;
 }
 
-/* Done - My failures of previous year */
+/* Done - My failures of previous year Section */
 
-/* Start - My plans */
+/* Start - My plans Section */
 #My-Plans {
     text-align: center;
     font-weight: 700;
@@ -120,10 +122,10 @@
     color: #737272;
 }
 
-/* Done - My plans */
+/* My plans Section - Done */
 
 
-/* Gradient Image - start */
+/* Gradient Image Section - start */
 
 .layered-image {
     background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%), url(../images/watch.png);
@@ -137,16 +139,62 @@
     margin-bottom: 130px;
 }
 
-.layered-image h2{
+.layered-image h2 {
     font-size: 40px;
     margin-bottom: 25px;
 }
 
-.layered-image-text{
+.layered-image-text {
     text-align: left;
     position: absolute;
     left: 65px;
     top: 59px;
 }
 
-/* Gradient Image - Done */
+/* Gradient Image Section - Done */
+
+/* Footer / Contact, Section - Start */
+
+.contact {
+    display: flex;
+    gap: 330px;
+    background: #151414;
+    color: white;
+    padding: 130px 230px;
+}
+
+.contact-title {
+    text-align: left;
+}
+
+.contact-title h3 {
+    font-weight: 700;
+    font-size: 45px;
+    color: #F8F8F8;
+    margin-bottom: 25px;
+}
+
+.submit-area {
+    font-size: 25px;
+}
+
+.email {
+    margin-bottom: 16px;
+    margin-top: 30px;
+    border-radius: 4px;
+    width: 280px;
+    padding: 20px;
+}
+
+.btn-primary-2 {
+    background: #005FAC;
+    border-radius: 8px;
+    padding: 18px 35px;
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+}
+.img-gap{
+    margin-right: 17px;
+}
