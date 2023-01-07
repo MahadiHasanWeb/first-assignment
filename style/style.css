@@ -1,6 +1,7 @@
 * {
     font-family: 'Work Sans', sans-serif;
     margin: 0;
+    padding: 0;
 }
 
 /* Banner Section */
@@ -118,4 +119,34 @@
     font-size: 25px;
     color: #737272;
 }
+
 /* Done - My plans */
+
+
+/* Gradient Image - start */
+
+.layered-image {
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%), url(../images/watch.png);
+    max-width: 1140px;
+    height: 300px;
+    background-size: cover;
+    color: white;
+    align-items: center;
+    margin: 0px auto;
+    position: relative;
+    margin-bottom: 130px;
+}
+
+.layered-image h2{
+    font-size: 40px;
+    margin-bottom: 25px;
+}
+
+.layered-image-text{
+    text-align: left;
+    position: absolute;
+    left: 65px;
+    top: 59px;
+}
+
+/* Gradient Image - Done */
